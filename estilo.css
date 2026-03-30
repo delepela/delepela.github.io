@@ -122,3 +122,9 @@ header {
   font-weight: bold;
 }
 /* produtos */
+
+.footer {
+    text-align: center;
+    margin-top: 40px;
+    color: #777;
+}
